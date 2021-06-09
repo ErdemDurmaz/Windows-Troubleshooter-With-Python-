@@ -10,4 +10,5 @@ def windows_diagnostics():
     print('Unable to fix this issue')
     time.sleep(2)
     print("Sorry for the time I stole from your life")
+    print("here have a cookie")
 windows_diagnostics()
